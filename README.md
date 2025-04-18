@@ -12,7 +12,7 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c++,java,python,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c##,java,python,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -39,7 +39,6 @@
 
 
 
-[![An image of @akmaurya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akmaurya7)](https://holopin.io/@akmaurya7)
 
 <br/>
 
