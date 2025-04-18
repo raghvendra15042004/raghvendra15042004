@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adarsh Kumar Maurya</h1>
-<h2 align="center"> A passionate Android developer </h2>
+<h1 align="center">Hi 👋, I'm Raghvendra Pratap</h1>
+<h2 align="center"> A passionate Full Stack developer </h2>
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/akmaurya7"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:amaurya4570@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/amaurya7"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+  <a href="https://www.linkedin.com/in/raghvendra-pratap-0ab685262/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:raghvendrapratap1552004@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </p>
 
 
@@ -13,7 +12,7 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=kotlin,java,python,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c++,java,python,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -21,12 +20,12 @@
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
-<!-- <tr>
+<tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=ktor,nodejs&theme=dark"></td>
-</tr> -->
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mongodb,express,nodejs&theme=dark"></td>
+</tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
@@ -38,17 +37,7 @@
 <br/>
 
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" padding="10px"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
 
-## HactoberFest Badges
 
 [![An image of @akmaurya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akmaurya7)](https://holopin.io/@akmaurya7)
 
